@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# v1 2017-01-27
+
+images/calais.jpg
+images/favicon.png
+css/style.css
+index.html
+
+FALLBACK:
+/html/ /offline.html
